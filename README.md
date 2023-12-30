@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedalikazmi1122" alt="syedalikazmi1122" /></a> </p>
 
+- 🔭 I’m currently working on **DMS**
+
 - 💬 Ask me about **React, Js,Cpp**
 
 - 📫 How to reach me **syedalikazmi0012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali kazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali kazmi" height="30" width="40" /></a>
-<a href="https://fb.com/syedalikazm02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedalikazm02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-kazmi-956865279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-kazmi-956865279" height="30" width="40" /></a>
+<a href="https://fb.com/syedalikazmi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedalikazmi02" height="30" width="40" /></a>
 <a href="https://instagram.com/thesyedalikazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesyedalikazmi" height="30" width="40" /></a>
 </p>
 
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedalikazmi1122&show_icons=true&locale=en" alt="syedalikazmi1122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalikazmi1122&" alt="syedalikazmi1122" /></p>
-
