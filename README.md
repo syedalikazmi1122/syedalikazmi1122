@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software  Engineering  Second Year Student. <br>I am currently working on a react and Next.js Projects.<br>I am currently looking to colaborate on any Front-end Project.<br>I am Learning different technologies and Latest Frameworks to improve front-end development.<br>You can ask me about React ,Html 5 ,css 3 ,js,c plus plus and project management.<br><br>I think work tensions must be limited to work space only and we should more enjoy the Life because this makes us entelectual person who can cope the tasks Later on so .<br>So what you came to know is i am also a poet Lol.<br>
+I am a software  Engineering  Second Year Student. <br>I am currently working on a React.js and Next.js Projects.<br>I am currently looking to colaborate on any Front-end Project.<br>I am Learning different technologies and Latest Frameworks to improve front-end development.<br>You can ask me about React ,Html 5 ,css 3 ,js,c plus plus and project management.<br><br>I think work tensions must be limited to work space only and we should more enjoy the Life because this makes us entelectual person who can cope the tasks Later on so .<br>So what you came to know is i am also a poet Lol.<br>
 
 
 ## 🌐 Socials:
