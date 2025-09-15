@@ -1,30 +1,49 @@
-# 💫 About Me:
-I am a software  Engineering  Second Year Student. <br>I am currently working on a React.js and Next.js Projects.<br>I am currently looking to colaborate on any Front-end Project.<br>I am Learning different technologies and Latest Frameworks to improve front-end development.<br>You can ask me about React ,Html 5 ,css 3 ,js,c plus plus and project management.<br><br>I think work tensions must be limited to work space only and we should more enjoy the Life because this makes us entelectual person who can cope the tasks Later on so .<br>So what you came to know is i am also a poet Lol.<br>
+⚡ Ali Kazmi – Software Engineer | Founder-Focentra | 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2F+Next.js+Specialist;Mobile+App+Developer;Founder+of+Musanif+%26+Focnetra;10%2B+Happy+Clients+Worldwide;Problem+Solver+%7C+Code+Poet" alt="Typing SVG" /> </p>
+💫 About Me
 
+🔹 Software Engineer & Full-Stack Developer with hands-on experience delivering high-performance apps.
+🔹 Founder of Musanif.co and Focnetra – built and scaled solutions for 10+ international clients.
+🔹 I don’t just code, I engineer scalable solutions that combine design, performance, and business goals.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Syedalikazmi2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheSyedalikazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-kazmi-956865279) 
+💡 Philosophy: Code should be clean, scalable, and impactful — just like poetry.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedalikazmi1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedalikazmi1122&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalikazmi1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🛠 Tech Arsenal
+🚀 Languages & Frameworks
+JavaScript      ████████████████████░░░   90%  
+React / Next.js ███████████████████░░░░   88%  
+Node.js / Express █████████████████░░░░   85%  
+React Native    ████████████████░░░░░░   80%  
+MongoDB         ████████████████░░░░░░   80%  
+C++             ████████████░░░░░░░░░░   65%  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedalikazmi1122&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+🎨 Design & UI Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalikazmi1122&layout=compact&theme=radical" height="150"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma,framer" /> </p>
+📊 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedalikazmi1122&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalikazmi1122&theme=radical" height="150"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedalikazmi1122&theme=radical"/> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedalikazmi1122&theme=radical"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedalikazmi1122&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+🏆 Achievements
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+🚀 Founded two tech startups (Musanif & Focnetra).
 
----
-[![](https://visitcount.itsvg.in/api?id=syedalikazmi1122&icon=1&color=8)](https://visitcount.itsvg.in)
+🌍 Delivered projects to 10+ global clients.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📱 Built websites, SaaS apps, and mobile apps for businesses.
+
+🛠 Skilled in end-to-end project delivery – from idea → deployment.
+
+✨ Fun Fact
+
+⚡ Outside of code, I’m a poet — so my work always has rhythm, creativity, and flow.
+
+💬 Let’s Collaborate: Whether it’s a mobile app, MERN project, or startup MVP, I can bring it to life.
+
+📩 Connect on LinkedIn
+ | Instagram
