@@ -1,5 +1,5 @@
 ⚡ Ali Kazmi – Software Engineer | Founder-Focentra | 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2F+Next.js+Specialist;Mobile+App+Developer;Founder+of+Musanif+%26+Focnetra;10%2B+Happy+Clients+Worldwide;Problem+Solver+%7C+Code+Poet" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2F+Next.js+Specialist;Mobile+App+Developer;Founder+of+Musanif+%26+Focentra;10%2B+Happy+Clients+Worldwide;Problem+Solver+%7C+Code+Poet" alt="Typing SVG" /> </p>
 💫 About Me
 
 🔹 Software Engineer & Full-Stack Developer with hands-on experience delivering high-performance apps.
